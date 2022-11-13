@@ -1,0 +1,800 @@
+{
+  "delegation_responses": [
+    {
+      "delegation": {
+        "delegator_address": "sent1qd5cvs4tel4a5zzgq2qgsmvyfzp7ytpx3fhzfs",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "500000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "500000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1qsk66jfz02x9r6433xdj5ptkpfp07ytkwx8utv",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "161259395470.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "161259395470"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1qnzmvlkfphtye6kycctadyjmyjhz4yn4mpap6j",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "100000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "100000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1quva893f8euhgsatey26s2ck82umtpq4pt6t85",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "7287000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "7287000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1prqrer7757gty3djewnup9283e3ktnl0z5vpn3",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "743243635.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "743243635"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1pkveqqkmzsu0lw9206ju7rtzkevayvu4jdsles",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "201000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "201000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1penq5h8xxcuwjhnwvj5d7y98z64nx8ssj2mzj7",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "319065201088.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "319065201088"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1zxhrnzlnr2y96rkude3m07pz04xug4eeraylcp",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "13900000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "13900000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1zv0sfn4ttmnpmprdjmweeszwex77qgx57haleg",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "52500000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "52500000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1zdx5xzs79tmv6vu2x3684l5q3jym8k67upaam4",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "52050000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "52050000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1r0mjrsjfprau9rwwxe04hkzfud696n3xmp8vxr",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "1006140000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "1006140000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1rksdun4z9k54p94hepn3gden99728xwae2pr0q",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "175176999997.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "175176999997"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1y4mathf6xqn6g4mcykprrwczxld9pqxu7f0v4e",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "4000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "4000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1yapj782cpsx9u2nd4fv7yvqrumv9jlzrdlv7dl",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "370862033099.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "370862033099"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1997n6vwgu3l250ltam0raut07970cumjmz2tzt",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "153131673707.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "153131673707"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent190sxcnekasqluvc7a6gx5ykguq70jkd5hly77t",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "2095580000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "2095580000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1xcqt9tu9q9jzculqrryzp3v472336vlfu509j6",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "10000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "10000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1x62vpe4eqtmfwfv2j94hnwv40nryl36kv7nxp0",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "193173200491.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "193173200491"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1863dv4gnx9uq0ehjv4835ewhfg0uklpmvdm08n",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "8000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "8000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1gg5xw45tkzy2maepr4uf3kafat9ue45d6zvmxx",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "100100000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "100100000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1f8l97avty8h3q0krygez8clly3drfkq9memdun",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "4950166783.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "4950166783"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1f44ackqlt03ud4064sq7apuhtqlllv2hxhsr90",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "39362000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "39362000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1fhl3mweztg6frpc06v0vjtf53ewfdtstnvkv6g",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "47650000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "47650000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1f7653xmmtk6c5ph8va37juwfzxdfcfw002xr7w",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "500000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "500000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent12gjmwyxwpuzjkqktmkpeqlp354d2fxn7qn6kav",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "405876187707.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "405876187707"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent12h9vlv8h5358p2d0sfgczt0wugvde8tnq6j5m7",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "12031354978.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "12031354978"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1tp0390jp407aduzj5za3txzftnmp3m8cg4g5c9",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "1585614832790.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "1585614832790"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1tg35xn6jf3h65q40eaymqy45gwtu0rnft09k28",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "462332914073.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "462332914073"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1vqfcl8mx9fkunwse5f3ydqqkr60xz9gpn5yqu0",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "650000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "650000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1vx0z6c7r2qaa66enxq9qvlkw45fqvqy8033728",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "15000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "15000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1v29hdduch7t2c62p80hsnge6hunyvj056r8x8z",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "18357409770.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "18357409770"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1vv8kmwrs24j5emzw8dp7k8satgea62l7knegd7",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "200000000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "200000000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1vwtr4k00w936uutgpek57vl90vp88vmzjvnzua",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "154050000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "154050000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1vjn838z923hgaws0nuqwjzynhgrzn9rrdcg35r",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "2000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "2000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1vnlhfv6pn3s95vt794avgg5zsz4jegc9qvzjlp",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "269480000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "269480000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1vkunguxa9ek7zfndlztv55xhgagx2246wxmjjp",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "200000000099.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "200000000099"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1vl93j77mwxsm8kjh2a7060xgay5dfrvmyxs092",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "108345581047.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "108345581047"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1ds8fc5dkvpxwudgqsezhwvmj4u5dnjx5rtk3wm",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "496322397418.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "496322397418"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1w25tyg0ghmsdzcuufep3lfxe6t8puv89yl265x",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "32738525897.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "32738525897"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1w4cyhw4t3j39ckasp36kmqqevh7ta8su8kgm0g",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "783935746.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "783935746"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent10gvh4rjjx9aktjmzn20e06alzscg8n7mqwq69l",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "10211648839.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "10211648839"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent10wu6j5qr0wk929k02j08rukmn0smnurtwmv8fl",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "28616000071.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "28616000071"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent107hufl8hjy5pe6wr582wncjlt3yxssja224729",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "200000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "200000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1szavj80p69sth5mn8hn7ed5g44ccr8ha94ty26",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "23841625972.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "23841625972"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1sywqmssxxgvw5544effpqw6mn9xzdn3cn2xu5n",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "339687774038.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "339687774038"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent134ap4wu0v7rjduktvv2h7jsvh2eqprngp0swsc",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "3919967609.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "3919967609"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent136gtx8m238907x02rnhxpwkwvwn0hpvhv8e3dy",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "673000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "673000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1jhezgk6vke9q30yqd88nvza634lzl0twzw3tgd",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "34899415201.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "34899415201"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1nes3mlsmmu29prtehkwxg2wgtfs274jgpza0nj",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "3014690000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "3014690000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent15f46k58ca87cj7844rgz4z47axpksq96rh0p07",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "30190000099.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "30190000099"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent15wny3ck5n92202c827n2cpuhv58nutgj3tlkfa",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "2769500000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "2769500000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent15a0qx0duvqcse6wcq3ajlsfk084nm35jlhvn6h",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "55000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "55000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1kvww4dwq6t5fulsz0d8c3wmxyzwfrfk3u4cy6y",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "1000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "1000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1kwwp7f5pszyxr39whf2rwm7gly596mdwvqe3na",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "23465755690.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "23465755690"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1kuk36gvqzlp2xx308khwxsk67wgk05nm8r3fzm",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "9271515699.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "9271515699"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1hfkgxzrkhxdxdwjy8d74jhc4dcw5e9zm7vfzh4",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "10449950000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "10449950000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1h0cyspv369v4wlr4kkg0fev74r2ehqs2rynz8q",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "29000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "29000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1ezqhcj04yv3trlj93k5nvqdf6sh7ux9l0vangz",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "2776500000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "2776500000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1e9ypey89gw0vslgpx6t57sylxeu6s8zsnmja98",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "30000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "30000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1e8dk2324fh7dt4lt7e4fukm8edmj0f2hj6t4w5",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "5854094687.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "5854094687"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1ec4j7yw9kz4dskjctj25jp2zkv7694pugxyh7l",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "14336000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "14336000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent16nyhy0kzky9llr94nje0t944g04ldse0f60h42",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "33375666250.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "33375666250"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent16mq9lwkz5mu7n45z5ecdtawp37lhcf6cfs4wt5",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "99376276731.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "99376276731"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent16m5pj85dq9xsma000lugxrcqlfrz0xmnwjsutl",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "5000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "5000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1md56l4zt95f0lve0uur3np49cr58d5u8sewk5s",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "35387000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "35387000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1u2g5c2glkect6xdfaqh6agf0e3n7mvd8hxxf74",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "70000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "70000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1uvay4nxlvy4uud25dcvdmruhl4n0zg0dh5xej9",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "4000000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "4000000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1atyqhztej74h8sfwhc3v2rt78z64cq789mzgkp",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "43386000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "43386000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1asdxd8v5adf2lyeyh2rygu4h9j68ffr837d2se",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "8728000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "8728000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1a7ma2jphu5jf9pwl84yyrqpacum0z28p0tqw6q",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "251864745410.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "251864745410"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent17xquhkcu2r99zucp5cvs0a3ewdwa92m8weh2nq",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "100000000.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "100000000"
+      }
+    },
+    {
+      "delegation": {
+        "delegator_address": "sent1lfg492xhnde2dpxxmmaa23x52d8yywpgxqfzwn",
+        "validator_address": "sentvaloper1vwtr4k00w936uutgpek57vl90vp88vmzdfv0n5",
+        "shares": "1000000999999.000000000000000000"
+      },
+      "balance": {
+        "denom": "udvpn",
+        "amount": "1000000999999"
+      }
+    }
+  ],
+  "pagination": {
+    "next_key": null,
+    "total": "0"
+  }
+}
